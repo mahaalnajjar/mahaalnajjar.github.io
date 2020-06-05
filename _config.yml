@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: "Maha Group"
+title: MahaGroup
 
 # Short description of your site
 description: Strategic Consulting Firm
@@ -21,6 +21,7 @@ description: Strategic Consulting Firm
 # List of links in the navigation bar
 navbar-links:
   About: "aboutme"
+
 #   Resources:
 #     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #     - Learn markdown: "http://www.markdowntutorial.com/"
